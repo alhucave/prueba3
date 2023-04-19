@@ -348,3 +348,4 @@ ASALocalRun/
 healthchecksdb
 /ARService.API/Logs/ARService-20210426.txt
 /GLService.API/Logs/GLService-20210426.txt
+/obj/Debug/net6.0/DemoBTW.assets.cache
