@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\_Temporal\EjemploTDD\DemoBTW\bin\Debug\net6.0\appsettings.Development.json
 C:\_Temporal\EjemploTDD\DemoBTW\bin\Debug\net6.0\appsettings.json
 C:\_Temporal\EjemploTDD\DemoBTW\bin\Debug\net6.0\DemoBTW.staticwebassets.runtime.json
@@ -91,3 +92,5 @@ C:\Users\sp_fe\OneDrive - BYTHEWAVE S.A.S\Capacitacion Calidad\Taller2_2\prueba3
 C:\Users\sp_fe\OneDrive - BYTHEWAVE S.A.S\Capacitacion Calidad\Taller2_2\prueba3\obj\Debug\net6.0\DemoBTW.pdb
 C:\Users\sp_fe\OneDrive - BYTHEWAVE S.A.S\Capacitacion Calidad\Taller2_2\prueba3\obj\Debug\net6.0\DemoBTW.genruntimeconfig.cache
 C:\Users\sp_fe\OneDrive - BYTHEWAVE S.A.S\Capacitacion Calidad\Taller2_2\prueba3\obj\Debug\net6.0\ref\DemoBTW.dll
+=======
+>>>>>>> a27c7252d3c01cfc01997094deac9e4d7a7ca8b6
