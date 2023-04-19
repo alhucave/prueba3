@@ -336,16 +336,7 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
-/bin/Debug/net6.0/appsettings.Development.json
-/bin/Debug/net6.0/appsettings.json
-/bin/Debug/net6.0/DemoBTW.deps.json
-/bin/Debug/net6.0/DemoBTW.dll
-/bin/Debug/net6.0/DemoBTW.exe
-/bin/Debug/net6.0/DemoBTW.pdb
-/bin/Debug/net6.0/DemoBTW.runtimeconfig.json
-/bin/Debug/net6.0/DemoBTW.staticwebassets.runtime.json
 # BeatPulse healthcheck temp database
 healthchecksdb
 /ARService.API/Logs/ARService-20210426.txt
 /GLService.API/Logs/GLService-20210426.txt
-/obj/Debug/net6.0/DemoBTW.assets.cache
