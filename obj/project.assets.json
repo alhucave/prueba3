@@ -182,25 +182,45 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\sp_fe\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+>>>>>>> origin/feature_Diego
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\sp_fe\\OneDrive - BYTHEWAVE S.A.S\\Capacitacion Calidad\\Taller2_2\\prueba3\\DemoBTW.csproj",
       "projectName": "DemoBTW",
       "projectPath": "C:\\Users\\sp_fe\\OneDrive - BYTHEWAVE S.A.S\\Capacitacion Calidad\\Taller2_2\\prueba3\\DemoBTW.csproj",
       "packagesPath": "C:\\Users\\sp_fe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sp_fe\\OneDrive - BYTHEWAVE S.A.S\\Capacitacion Calidad\\Taller2_2\\prueba3\\obj\\",
+=======
+      "projectUniqueName": "D:\\Programacion\\C#\\Git\\DemoBTW.csproj",
+      "projectName": "DemoBTW",
+      "projectPath": "D:\\Programacion\\C#\\Git\\DemoBTW.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Programacion\\C#\\Git\\obj\\",
+>>>>>>> origin/feature_Diego
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\sp_fe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> origin/feature_Diego
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -244,6 +264,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -252,7 +290,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+>>>>>>> origin/feature_Diego
       }
     }
   }
