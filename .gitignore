@@ -8,3 +8,11 @@
 /obj/Debug/net6.0
 /.vs/DemoBTW/v17
 
+/bin/Debug/net6.0/appsettings.Development.json
+/bin/Debug/net6.0/appsettings.json
+/bin/Debug/net6.0/DemoBTW.deps.json
+/bin/Debug/net6.0/DemoBTW.dll
+/bin/Debug/net6.0/DemoBTW.exe
+/bin/Debug/net6.0/DemoBTW.pdb
+/bin/Debug/net6.0/DemoBTW.runtimeconfig.json
+/bin/Debug/net6.0/DemoBTW.staticwebassets.runtime.json
