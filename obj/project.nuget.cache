@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "XNS4nG9jbRdrJoy9xhBRvCesDlkyuk2kzaxHx1BfC44b88RTGyRINcMSHvL3370hzHwLMwfAOwpvJFlKTsttJQ==",
+  "dgSpecHash": "YnlwrXqFdhUWPDwd8fESryFL2F7DLFOH4WACXx6qMwBljE5zKKtGc9QbYr3T+8SZXjYU/pgmPxJoPiOz8soGtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sp_fe\\OneDrive - BYTHEWAVE S.A.S\\Capacitacion Calidad\\Taller2_2\\prueba3\\DemoBTW.csproj",
+  "projectFilePath": "D:\\CAPACITACIONES\\prueba3\\DemoBTW.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sp_fe\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
-    "C:\\Users\\sp_fe\\.nuget\\packages\\microsoft.net.http.headers\\2.2.8\\microsoft.net.http.headers.2.2.8.nupkg.sha512",
-    "C:\\Users\\sp_fe\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
-    "C:\\Users\\sp_fe\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
-    "C:\\Users\\sp_fe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    "C:\\Users\\Santiago Q\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Santiago Q\\.nuget\\packages\\microsoft.net.http.headers\\2.2.8\\microsoft.net.http.headers.2.2.8.nupkg.sha512",
+    "C:\\Users\\Santiago Q\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Santiago Q\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Santiago Q\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
   ],
   "logs": []
 }
