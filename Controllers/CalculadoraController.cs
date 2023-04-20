@@ -10,26 +10,5 @@ namespace DemoBTW.Controllers
 
             return View();
         }
-
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Enter(CalculadoraViewModel model)
-        {
-            if (ModelState.IsValid)
-            {
-                try
-                {
-
-                    
-                }
-                catch (Exception)
-                {
-                    
-                }
-            }
-            
-            return View(model);
-        }
-
     }
 }
