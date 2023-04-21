@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "PzSAOOA19dHmuVe9AxlaRtaYzl/Bi1wUIowy1cY5axZesDpE59bx04l06By1mVnc4GC12Vf72OTlQek9JLgJWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ingmarlonm\\Documents\\Marlon Murcia\\TallerGITFLOW\\prueba3\\DemoBTW3\\DemoBTW3.csproj",
-=======
-  "dgSpecHash": "uit16CFzDeJaW5znL8bW4ir2efM4ysZW7yhKiwlvXLCPyikdw7hSh5aGQU73XZe1DUdY2BViV++oWU/lQyi9UQ==",
-  "success": true,
-  "projectFilePath": "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\DemoBTW3.csproj",
->>>>>>> 241223372aeb11bfce34f582471c153aa0813472
   "expectedPackageFiles": [],
   "logs": []
 }

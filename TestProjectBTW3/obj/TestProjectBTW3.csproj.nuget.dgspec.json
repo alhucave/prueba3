@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\ingmarlonm\\Documents\\Marlon Murcia\\TallerGITFLOW\\prueba3\\TestProjectBTW3\\TestProjectBTW3.csproj": {}
   },
   "projects": {
@@ -19,27 +18,6 @@
         ],
         "configFilePaths": [
           "C:\\Users\\ingmarlonm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Información\\Taller\\PruebasUnitarias\\TestProjectBTW3\\TestProjectBTW3.csproj": {}
-  },
-  "projects": {
-    "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\DemoBTW3.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\DemoBTW3.csproj",
-        "projectName": "DemoBTW3",
-        "projectPath": "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\DemoBTW3.csproj",
-        "packagesPath": "C:\\Users\\ingdanielm\\.nuget\\packages\\",
-        "outputPath": "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ingdanielm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 241223372aeb11bfce34f582471c153aa0813472
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,13 +25,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
           "C:\\Users\\ingmarlonm\\Documents": {},
           "C:\\Users\\ingmarlonm\\source\\repos\\sharedsrc\\FEBTW.Shared.Models\\bin\\Release": {},
           "C:\\Users\\ingmarlonm\\source\\repos\\sharedsrc\\FEBTW.SharedSrc\\bin\\Release": {},
-=======
-          "C:\\Program Files\\dotnet\\library-packs": {},
->>>>>>> 241223372aeb11bfce34f582471c153aa0813472
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,8 +51,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -90,7 +63,6 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.116\\RuntimeIdentifierGraph.json"
         }
       }
@@ -109,28 +81,6 @@
         ],
         "configFilePaths": [
           "C:\\Users\\ingmarlonm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Información\\Taller\\PruebasUnitarias\\TestProjectBTW3\\TestProjectBTW3.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Información\\Taller\\PruebasUnitarias\\TestProjectBTW3\\TestProjectBTW3.csproj",
-        "projectName": "TestProjectBTW3",
-        "projectPath": "C:\\Información\\Taller\\PruebasUnitarias\\TestProjectBTW3\\TestProjectBTW3.csproj",
-        "packagesPath": "C:\\Users\\ingdanielm\\.nuget\\packages\\",
-        "outputPath": "C:\\Información\\Taller\\PruebasUnitarias\\TestProjectBTW3\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ingdanielm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 241223372aeb11bfce34f582471c153aa0813472
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,26 +88,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
           "C:\\Users\\ingmarlonm\\Documents": {},
           "C:\\Users\\ingmarlonm\\source\\repos\\sharedsrc\\FEBTW.Shared.Models\\bin\\Release": {},
           "C:\\Users\\ingmarlonm\\source\\repos\\sharedsrc\\FEBTW.SharedSrc\\bin\\Release": {},
-=======
-          "C:\\Program Files\\dotnet\\library-packs": {},
->>>>>>> 241223372aeb11bfce34f582471c153aa0813472
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-<<<<<<< HEAD
               "C:\\Users\\ingmarlonm\\Documents\\Marlon Murcia\\TallerGITFLOW\\prueba3\\DemoBTW3\\DemoBTW3.csproj": {
                 "projectPath": "C:\\Users\\ingmarlonm\\Documents\\Marlon Murcia\\TallerGITFLOW\\prueba3\\DemoBTW3\\DemoBTW3.csproj"
-=======
-              "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\DemoBTW3.csproj": {
-                "projectPath": "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\DemoBTW3.csproj"
->>>>>>> 241223372aeb11bfce34f582471c153aa0813472
               }
             }
           }
@@ -199,8 +140,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -209,11 +149,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.116\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
->>>>>>> 241223372aeb11bfce34f582471c153aa0813472
         }
       }
     }
