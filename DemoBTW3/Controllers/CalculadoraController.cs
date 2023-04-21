@@ -19,8 +19,11 @@ namespace DemoBTW3.Controllers
             {
                 try
                 {
-                    model.Resultado = model.Numero1 + model.Numero2;
+                    if(model.Operacion == "+")
+                        model.Resultado = model.Numero1 + model.Numero2;
 
+                    if (model.Operacion == "^")
+                        model.Resultado = Convert.ToInt32(Math.Pow(model.Numero1, model.Numero2));
                 }
                 catch (Exception)
                 {
