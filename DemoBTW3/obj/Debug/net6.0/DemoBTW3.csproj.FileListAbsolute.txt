@@ -29,3 +29,29 @@ C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\refint\DemoBTW3.dll
 C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.pdb
 C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.genruntimeconfig.cache
 C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\ref\DemoBTW3.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\bin\Debug\net6.0\appsettings.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.staticwebassets.runtime.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.exe
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.deps.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.runtimeconfig.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\bin\Debug\net6.0\ref\DemoBTW3.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.pdb
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.csproj.AssemblyReference.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.AssemblyInfoInputs.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.AssemblyInfo.cs
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.csproj.CoreCompileInputs.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.RazorAssemblyInfo.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.RazorAssemblyInfo.cs
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\scopedcss\bundle\DemoBTW3.styles.css
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\scopedcss\projectbundle\DemoBTW3.bundle.scp.css
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\ref\DemoBTW3.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.pdb
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.genruntimeconfig.cache
