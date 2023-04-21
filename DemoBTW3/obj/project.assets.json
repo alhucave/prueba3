@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ALEX\\.nuget\\packages\\": {},
+    "C:\\Users\\ingeimerp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALEX\\source\\repos\\prueba3\\DemoBTW3\\DemoBTW3.csproj",
+      "projectUniqueName": "C:\\Users\\ingeimerp\\Source\\Repos\\prueba3\\DemoBTW3\\DemoBTW3.csproj",
       "projectName": "DemoBTW3",
-      "projectPath": "C:\\Users\\ALEX\\source\\repos\\prueba3\\DemoBTW3\\DemoBTW3.csproj",
-      "packagesPath": "C:\\Users\\ALEX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALEX\\source\\repos\\prueba3\\DemoBTW3\\obj\\",
+      "projectPath": "C:\\Users\\ingeimerp\\Source\\Repos\\prueba3\\DemoBTW3\\DemoBTW3.csproj",
+      "packagesPath": "C:\\Users\\ingeimerp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ingeimerp\\Source\\Repos\\prueba3\\DemoBTW3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ALEX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ingeimerp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

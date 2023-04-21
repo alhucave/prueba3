@@ -31,5 +31,25 @@ namespace TestProjectBTW3
 
             Assert.That(respuesta3.Resultado,Is.EqualTo(6));
         }
+
+        [Test]
+        public async Task MultiplicarDosNumero2() 
+        {
+
+            var controlador = new CalculadoraController();
+
+            var modelo = new CalculadoraViewModel();
+
+            modelo.Numero1 = 2;
+            modelo.Numero2 = 3;
+            modelo.Operacion = "^";
+
+            var respuesta = await controlador.Enter(modelo);
+
+            var respuestaModelo = (CalculadoraViewModel)(((ViewResult)respuesta).Model);
+
+            Assert.That(respuestaModelo.Resultado, Is.EqualTo(8));
+
+        }
     }
 }
