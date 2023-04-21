@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "PzSAOOA19dHmuVe9AxlaRtaYzl/Bi1wUIowy1cY5axZesDpE59bx04l06By1mVnc4GC12Vf72OTlQek9JLgJWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ingmarlonm\\Documents\\Marlon Murcia\\TallerGITFLOW\\prueba3\\DemoBTW3\\DemoBTW3.csproj",
-=======
-  "dgSpecHash": "Kkq+C6XNHVH+k/+CGZKvkFzhptjy0fYQxTRA9v+TMfPyvvXTDrZGwF8glFv9QxBWBDmNLZc3KGHGahqlZ2DvGw==",
-  "success": true,
-  "projectFilePath": "D:\\Practica Taller C.S\\TDD\\DemoBTW3\\DemoBTW3.csproj",
->>>>>>> 575956c82cb7a3308e07d383f52a04f7c95c4c2c
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\ingmarlonm\\Documents\\Marlon Murcia\\TallerGITFLOW\\prueba3\\DemoBTW3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
