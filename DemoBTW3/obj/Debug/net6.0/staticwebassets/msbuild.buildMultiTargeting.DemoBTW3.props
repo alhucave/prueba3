@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\DemoBTW3.props" />
-</Project>

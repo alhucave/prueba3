@@ -1,62 +1,26 @@
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.csproj.AssemblyReference.cache
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.GeneratedMSBuildEditorConfig.editorconfig
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.AssemblyInfoInputs.cache
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.AssemblyInfo.cs
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.csproj.CoreCompileInputs.cache
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.MvcApplicationPartsAssemblyInfo.cache
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.RazorAssemblyInfo.cache
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.RazorAssemblyInfo.cs
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\bin\Debug\net6.0\appsettings.Development.json
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\bin\Debug\net6.0\appsettings.json
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.staticwebassets.runtime.json
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.exe
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.deps.json
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.runtimeconfig.json
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.dll
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\bin\Debug\net6.0\DemoBTW3.pdb
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\staticwebassets\msbuild.DemoBTW3.Microsoft.AspNetCore.StaticWebAssets.props
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoBTW3.props
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoBTW3.props
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoBTW3.props
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\staticwebassets.pack.json
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\staticwebassets.build.json
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\staticwebassets.development.json
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\scopedcss\bundle\DemoBTW3.styles.css
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\scopedcss\projectbundle\DemoBTW3.bundle.scp.css
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.dll
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\refint\DemoBTW3.dll
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.pdb
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\DemoBTW3.genruntimeconfig.cache
-C:\_Castor\Fenalco\DemoBTW3\DemoBTW3\obj\Debug\net6.0\ref\DemoBTW3.dll
-D:\ejercicio pruebas unitarias curso\DemoBTW3\bin\Debug\net6.0\appsettings.Development.json
-D:\ejercicio pruebas unitarias curso\DemoBTW3\bin\Debug\net6.0\appsettings.json
-D:\ejercicio pruebas unitarias curso\DemoBTW3\bin\Debug\net6.0\DemoBTW3.staticwebassets.runtime.json
-D:\ejercicio pruebas unitarias curso\DemoBTW3\bin\Debug\net6.0\DemoBTW3.exe
-D:\ejercicio pruebas unitarias curso\DemoBTW3\bin\Debug\net6.0\DemoBTW3.deps.json
-D:\ejercicio pruebas unitarias curso\DemoBTW3\bin\Debug\net6.0\DemoBTW3.runtimeconfig.json
-D:\ejercicio pruebas unitarias curso\DemoBTW3\bin\Debug\net6.0\DemoBTW3.dll
-D:\ejercicio pruebas unitarias curso\DemoBTW3\bin\Debug\net6.0\DemoBTW3.pdb
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.csproj.AssemblyReference.cache
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.GeneratedMSBuildEditorConfig.editorconfig
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.AssemblyInfoInputs.cache
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.AssemblyInfo.cs
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.csproj.CoreCompileInputs.cache
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.MvcApplicationPartsAssemblyInfo.cache
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.RazorAssemblyInfo.cache
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.RazorAssemblyInfo.cs
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\staticwebassets\msbuild.DemoBTW3.Microsoft.AspNetCore.StaticWebAssets.props
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoBTW3.props
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoBTW3.props
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoBTW3.props
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\staticwebassets.pack.json
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\staticwebassets.build.json
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\staticwebassets.development.json
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\scopedcss\bundle\DemoBTW3.styles.css
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\scopedcss\projectbundle\DemoBTW3.bundle.scp.css
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.dll
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\refint\DemoBTW3.dll
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.pdb
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\DemoBTW3.genruntimeconfig.cache
-D:\ejercicio pruebas unitarias curso\DemoBTW3\obj\Debug\net6.0\ref\DemoBTW3.dll
+D:\Practica Taller C.S\TDD\DemoBTW3\bin\Debug\net6.0\appsettings.Development.json
+D:\Practica Taller C.S\TDD\DemoBTW3\bin\Debug\net6.0\appsettings.json
+D:\Practica Taller C.S\TDD\DemoBTW3\bin\Debug\net6.0\DemoBTW3.staticwebassets.runtime.json
+D:\Practica Taller C.S\TDD\DemoBTW3\bin\Debug\net6.0\DemoBTW3.exe
+D:\Practica Taller C.S\TDD\DemoBTW3\bin\Debug\net6.0\DemoBTW3.deps.json
+D:\Practica Taller C.S\TDD\DemoBTW3\bin\Debug\net6.0\DemoBTW3.runtimeconfig.json
+D:\Practica Taller C.S\TDD\DemoBTW3\bin\Debug\net6.0\DemoBTW3.dll
+D:\Practica Taller C.S\TDD\DemoBTW3\bin\Debug\net6.0\DemoBTW3.pdb
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.csproj.AssemblyReference.cache
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.AssemblyInfoInputs.cache
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.AssemblyInfo.cs
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.csproj.CoreCompileInputs.cache
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.MvcApplicationPartsAssemblyInfo.cache
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.RazorAssemblyInfo.cache
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.RazorAssemblyInfo.cs
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\staticwebassets.build.json
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\staticwebassets.development.json
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\scopedcss\bundle\DemoBTW3.styles.css
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\scopedcss\projectbundle\DemoBTW3.bundle.scp.css
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.dll
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\refint\DemoBTW3.dll
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.pdb
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\DemoBTW3.genruntimeconfig.cache
+D:\Practica Taller C.S\TDD\DemoBTW3\obj\Debug\net6.0\ref\DemoBTW3.dll

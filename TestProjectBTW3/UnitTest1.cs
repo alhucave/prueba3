@@ -94,5 +94,26 @@ namespace TestProjectBTW3
 
             Assert.That(resultado.Resultado, Is.EqualTo(3));
         }
+
+        [Test]
+        public async Task RestarDosNumero()
+        {
+
+            var controlador = new CalculadoraController();
+
+            var modelo = new CalculadoraViewModel();
+
+            modelo.Numero1 = 5;
+            modelo.Numero2 = 1;
+            modelo.Operacion = "-";
+
+            var respuesta = await controlador.Enter(modelo);
+
+
+
+            var respuesta3 = (CalculadoraViewModel)(((ViewResult)respuesta).Model);
+
+            Assert.That(respuesta3.Resultado, Is.EqualTo(4));
+        }
     }
 }

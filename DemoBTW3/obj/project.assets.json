@@ -8,30 +8,20 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ingjordanilo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ing9soporte\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\DemoBTW3.csproj",
+      "projectUniqueName": "D:\\Practica Taller C.S\\TDD\\DemoBTW3\\DemoBTW3.csproj",
       "projectName": "DemoBTW3",
-      "projectPath": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\DemoBTW3.csproj",
-      "packagesPath": "C:\\Users\\ingjordanilo\\.nuget\\packages\\",
-      "outputPath": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\obj\\",
+      "projectPath": "D:\\Practica Taller C.S\\TDD\\DemoBTW3\\DemoBTW3.csproj",
+      "packagesPath": "C:\\Users\\ing9soporte\\.nuget\\packages\\",
+      "outputPath": "D:\\Practica Taller C.S\\TDD\\DemoBTW3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ingjordanilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\ing9soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -61,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -74,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
