@@ -19,17 +19,20 @@ namespace DemoBTW3.Controllers
             {
                 try
                 {
-                    if(Convert.ToChar(model.Operacion)=='+')
-                        model.Resultado = model.Numero1 + model.Numero2;
-                    if(Convert.ToChar(model.Operacion)=='-')
+                    if (model.Operacion == "-")
                         model.Resultado = model.Numero1 - model.Numero2;
+                    else if (model.Operacion == "promedio")
+                        model.Resultado = (model.Numero1 + model.Numero2) / 2;
+                    else
+                        model.Resultado = model.Numero1 + model.Numero2;
 
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
 
                 }
             }
+
 
             return View(model);
         }

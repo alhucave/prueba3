@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Kkq+C6XNHVH+k/+CGZKvkFzhptjy0fYQxTRA9v+TMfPyvvXTDrZGwF8glFv9QxBWBDmNLZc3KGHGahqlZ2DvGw==",
   "success": true,
   "projectFilePath": "D:\\Practica Taller C.S\\TDD\\DemoBTW3\\DemoBTW3.csproj",
+=======
+  "dgSpecHash": "o/50ws9WOTx/JAzleQN93wVUq2Bvwpp+eNUqqqSNeKsc68gtOvYgNQ8wk/ABGES5lOWS0pOHnJcCVM+n1om2/g==",
+  "success": true,
+  "projectFilePath": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\DemoBTW3.csproj",
+>>>>>>> eed833deb63bd00c58c4150ef3b987ad883aeb04
   "expectedPackageFiles": [],
   "logs": []
 }
