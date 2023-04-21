@@ -8,36 +8,34 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ingjordanilo\\.nuget\\packages\\": {},
+    "C:\\Users\\ingdanielm\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\DemoBTW3.csproj",
+      "projectUniqueName": "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\DemoBTW3.csproj",
       "projectName": "DemoBTW3",
-      "projectPath": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\DemoBTW3.csproj",
-      "packagesPath": "C:\\Users\\ingjordanilo\\.nuget\\packages\\",
-      "outputPath": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\obj\\",
+      "projectPath": "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\DemoBTW3.csproj",
+      "packagesPath": "C:\\Users\\ingdanielm\\.nuget\\packages\\",
+      "outputPath": "C:\\Información\\Taller\\PruebasUnitarias\\DemoBTW3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ingjordanilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ingdanielm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -74,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

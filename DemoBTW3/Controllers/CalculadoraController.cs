@@ -19,9 +19,11 @@ namespace DemoBTW3.Controllers
             {
                 try
                 {
-                    if(model.Operacion == "+")
+                    if (model.Operacion == "-")
+                        model.Resultado = model.Numero1 - model.Numero2;
+                    else if (model.Operacion == "+")
                         model.Resultado = model.Numero1 + model.Numero2;
-                    if (model.Operacion == "promedio")
+                    else if (model.Operacion == "promedio")
                         model.Resultado = (model.Numero1 + model.Numero2) / 2;
                     else
                         model.Resultado = model.Numero1 + model.Numero2;
