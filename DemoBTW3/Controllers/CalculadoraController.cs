@@ -1,5 +1,6 @@
 ﻿using DemoBTW3.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Reflection;
 
 namespace DemoBTW3.Controllers
 {
@@ -19,16 +20,19 @@ namespace DemoBTW3.Controllers
             {
                 try
                 {
-                    model.Resultado = model.Numero1 + model.Numero2;
-
+                    if (model.Operacion == "+")
+                    {
+                        model.Resultado=  model.Numero1 + model.Numero2;
+                    }else if(model.Operacion == "/")
+                        model.Resultado = model.Numero1 / model.Numero2;
                 }
                 catch (Exception)
                 {
 
                 }
             }
-
             return View(model);
         }
     }
+
 }

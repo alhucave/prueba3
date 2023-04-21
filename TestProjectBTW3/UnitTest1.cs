@@ -31,5 +31,22 @@ namespace TestProjectBTW3
 
             Assert.That(respuesta3.Resultado,Is.EqualTo(6));
         }
+
+        [Test]
+        public async Task DividirDosNumeros()
+        {
+            var controlador = new CalculadoraController();
+            var modelo = new CalculadoraViewModel();
+
+            modelo.Numero1 = 6; 
+            modelo.Numero2 = 2; 
+            modelo.Operacion = "/";
+
+            var resultado = await controlador.Enter(modelo);
+
+            var respuesta = (CalculadoraViewModel)(((ViewResult)resultado).Model);
+
+            Assert.That(respuesta.Resultado,Is.EqualTo(3));
+        }
     }
 }
