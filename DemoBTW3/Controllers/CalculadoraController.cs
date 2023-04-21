@@ -18,7 +18,7 @@ namespace DemoBTW3.Controllers
             if (ModelState.IsValid)
             {
                 try
-
+                { 
                     if (model.Operacion == "promedio")
                         model.Resultado = (model.Numero1 + model.Numero2) / 2;
                     else if (model.Operacion == "^")
