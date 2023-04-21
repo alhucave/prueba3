@@ -19,7 +19,15 @@ namespace DemoBTW3.Controllers
             {
                 try
                 {
-                    model.Resultado = model.Numero1 + model.Numero2;
+                    switch (model.Operacion)
+                    {
+                        case "+":
+                            model.Resultado = model.Numero1 + model.Numero2;
+                            break;
+                        case "^":
+                            model.Resultado = Convert.ToInt32(Math.Pow(Convert.ToDouble(model.Numero1), Convert.ToDouble(model.Numero2)));
+                            break;
+                    }
 
                 }
                 catch (Exception)
