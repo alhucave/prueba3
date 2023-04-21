@@ -32,6 +32,24 @@ namespace TestProjectBTW3
             Assert.That(respuesta3.Resultado,Is.EqualTo(6));
         }
 
+        [Test]
+        public async Task ExponenteIng5Soporte()
+        {
+            var controlador = new CalculadoraController();
+
+            var modelo = new CalculadoraViewModel();
+
+            modelo.Numero1 = 3;
+            modelo.Numero2 = 2;
+            modelo.Operacion = "^";
+
+            var respuesta = await controlador.Enter(modelo);
+
+            var respuesta3 = (CalculadoraViewModel)(((ViewResult)respuesta).Model);
+
+            Assert.That(respuesta3.Resultado, Is.EqualTo(9));
+        }
+
 
 
         [Test]
