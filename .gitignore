@@ -3,3 +3,5 @@
 ################################################################################
 
 /DemoBTW3/obj/project.nuget.cache
+*.vsidx
+/TestProjectBTW3/obj/Debug/net6.0/TestProjectBTW3.csproj.AssemblyReference.cache
