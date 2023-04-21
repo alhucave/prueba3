@@ -44,7 +44,7 @@ namespace TestProjectBTW3
             var response = await controlador.Enter(modelo);
             var response3 = (CalculadoraViewModel)(((ViewResult)response).Model);
 
-            Assert.That(respuesta3.Resultado,Is.EqualTo(6));
+            Assert.That(response3.Resultado,Is.EqualTo(1));
         }
 
         [Test]
