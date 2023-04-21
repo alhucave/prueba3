@@ -31,5 +31,28 @@ namespace TestProjectBTW3
 
             Assert.That(respuesta3.Resultado,Is.EqualTo(6));
         }
+
+
+
+        [Test]
+        public async Task PromedioDosNumeros_Jordan()
+        {
+
+            var controlador = new CalculadoraController();
+
+            var modelo = new CalculadoraViewModel();
+
+            modelo.Numero1 = 1;
+            modelo.Numero2 = 5;
+            modelo.Operacion = "promedio";
+
+            var respuesta = await controlador.Enter(modelo);
+
+
+
+            var resultado = (CalculadoraViewModel)(((ViewResult)respuesta).Model);
+
+            Assert.That(resultado.Resultado, Is.EqualTo(3));
+        }
     }
 }

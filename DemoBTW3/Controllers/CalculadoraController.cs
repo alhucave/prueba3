@@ -19,14 +19,18 @@ namespace DemoBTW3.Controllers
             {
                 try
                 {
-                    model.Resultado = model.Numero1 + model.Numero2;
+                    if (model.Operacion == "promedio")
+                        model.Resultado = (model.Numero1 + model.Numero2) / 2;
+                    else
+                        model.Resultado = model.Numero1 + model.Numero2;
 
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
 
                 }
             }
+
 
             return View(model);
         }
