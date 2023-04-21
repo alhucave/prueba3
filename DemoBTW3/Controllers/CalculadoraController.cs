@@ -18,19 +18,21 @@ namespace DemoBTW3.Controllers
             if (ModelState.IsValid)
             {
                 try
-                {
-                    if(model.Operacion == "+")
+
+                    if (model.Operacion == "promedio")
+                        model.Resultado = (model.Numero1 + model.Numero2) / 2;
+                    else if (model.Operacion == "^")
+                        model.Resultado = Convert.ToInt32(Math.Pow(model.Numero1, model.Numero2));
+                    else if (model.Operacion == "+")
                         model.Resultado = model.Numero1 + model.Numero2;
 
-                    if (model.Operacion == "^")
-                        model.Resultado = Convert.ToInt32(Math.Pow(model.Numero1, model.Numero2));
-
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
 
                 }
             }
+
 
             return View(model);
         }
