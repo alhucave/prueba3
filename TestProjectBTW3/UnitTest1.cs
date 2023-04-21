@@ -33,7 +33,7 @@ namespace TestProjectBTW3
         }
 
         [Test]
-        public async Task DividirDosNumeros()
+        public async Task DividirDosNumerosDaniel()
         {
             var controlador = new CalculadoraController();
             var modelo = new CalculadoraViewModel();
