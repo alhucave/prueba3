@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "aEE4rgP2e3Z1i1SgW9Njtm+BJH24rjBye2eWaiXeDEAL14wOQ6KlPQRYHpyCMSwKmQExmIHkLeiku8pS/1suDA==",
   "success": true,
   "projectFilePath": "D:\\Programacion\\C#\\Curso\\Prueba3\\DemoBTW3\\DemoBTW3.csproj",
@@ -9,5 +10,11 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "o/50ws9WOTx/JAzleQN93wVUq2Bvwpp+eNUqqqSNeKsc68gtOvYgNQ8wk/ABGES5lOWS0pOHnJcCVM+n1om2/g==",
+  "success": true,
+  "projectFilePath": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\DemoBTW3.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> origin/develop
   "logs": []
 }
