@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DemoBTW3/FileContentIndex
+/DemoBTW3/obj/Debug/net6.0/DemoBTW3.csproj.AssemblyReference.cache
+/DemoBTW3/obj/Debug/net6.0/DemoBTW3.csproj.AssemblyReference.cache
+/DemoBTW3/obj/Debug/net6.0/DemoBTW3.GeneratedMSBuildEditorConfig.editorconfig
+/TestProjectBTW3/bin/Debug/net6.0/CoverletSourceRootsMapping
+/TestProjectBTW3/obj/Debug/net6.0/TestProjectBTW3.csproj.AssemblyReference.cache
+/TestProjectBTW3/obj/Debug/net6.0/TestProjectBTW3.GeneratedMSBuildEditorConfig.editorconfig
+/TestProjectBTW3/bin/Debug/net6.0/CoverletSourceRootsMapping
