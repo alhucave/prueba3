@@ -23,35 +23,28 @@ namespace TestProjectBTW3
             modelo.Numero2 = 5;
             modelo.Operacion = "+";
 
-            var respuesta = await controlador.Enter(modelo);
-
-
-
+            var respuesta =  await controlador.Enter(modelo);
+           
             var respuesta3 = (CalculadoraViewModel)(((ViewResult)respuesta).Model);
 
-            Assert.That(respuesta3.Resultado, Is.EqualTo(6));
+            Assert.That(respuesta3.Resultado,Is.EqualTo(6));
         }
 
         [Test]
-        public async Task ExponenteNumeros098701()
+        public async Task ExponencialMarlonM77()
         {
 
             var controlador = new CalculadoraController();
-
             var modelo = new CalculadoraViewModel();
 
-            modelo.Numero1= 4;
+            modelo.Numero1 = 1;
             modelo.Numero2 = 2;
-            {
-                modelo.Operacion = "^";
+            modelo.Operacion = "^";
 
-                var respuesta = await controlador.Enter(modelo);
+            var response = await controlador.Enter(modelo);
+            var response3 = (CalculadoraViewModel)(((ViewResult)response).Model);
 
-                var respuesta3 = (CalculadoraViewModel)(((ViewResult)respuesta).Model);
-
-                Assert.That(respuesta3.Resultado, Is.EqualTo(16));
-
-            }
+            Assert.That(response3.Resultado,Is.EqualTo(1));
         }
 
         [Test]
