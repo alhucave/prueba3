@@ -8,19 +8,11 @@
     "net6.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\ing9soporte\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\ingjordanilo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
->>>>>>> eed833deb63bd00c58c4150ef3b987ad883aeb04
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "D:\\Practica Taller C.S\\TDD\\DemoBTW3\\DemoBTW3.csproj",
       "projectName": "DemoBTW3",
       "projectPath": "D:\\Practica Taller C.S\\TDD\\DemoBTW3\\DemoBTW3.csproj",
@@ -30,24 +22,6 @@
       "configFilePaths": [
         "C:\\Users\\ing9soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-=======
-      "projectUniqueName": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\DemoBTW3.csproj",
-      "projectName": "DemoBTW3",
-      "projectPath": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\DemoBTW3.csproj",
-      "packagesPath": "C:\\Users\\ingjordanilo\\.nuget\\packages\\",
-      "outputPath": "D:\\ejercicio pruebas unitarias curso\\DemoBTW3\\obj\\",
-      "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
-      "configFilePaths": [
-        "C:\\Users\\ingjordanilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
->>>>>>> eed833deb63bd00c58c4150ef3b987ad883aeb04
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -89,11 +63,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
->>>>>>> eed833deb63bd00c58c4150ef3b987ad883aeb04
       }
     }
   }
