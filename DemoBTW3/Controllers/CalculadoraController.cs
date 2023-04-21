@@ -20,6 +20,8 @@ namespace DemoBTW3.Controllers
                 try
                 {
                     model.Resultado = model.Numero1 + model.Numero2;
+                    if (Convert.ToChar(model.Operacion) == '/')
+                        model.Resultado = model.Numero1 / model.Numero2;
 
                 }
                 catch (Exception)

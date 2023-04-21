@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8OuQ3pkBwbrDo/ER6cWhuMCYHyYOKMvRy6lYyorxe1ZGI21ZqTRfMdms8e7nCuM1QeJiRzzOHDcCRusXrpClEA==",
+  "dgSpecHash": "aEE4rgP2e3Z1i1SgW9Njtm+BJH24rjBye2eWaiXeDEAL14wOQ6KlPQRYHpyCMSwKmQExmIHkLeiku8pS/1suDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALEX\\source\\repos\\prueba3\\DemoBTW3\\DemoBTW3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programacion\\C#\\Curso\\Prueba3\\DemoBTW3\\DemoBTW3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

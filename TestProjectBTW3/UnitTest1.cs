@@ -23,13 +23,26 @@ namespace TestProjectBTW3
             modelo.Numero2 = 5;
             modelo.Operacion = "+";
 
-            var respuesta =  await controlador.Enter(modelo);
+            var respuesta = await controlador.Enter(modelo);
 
-            
+
 
             var respuesta3 = (CalculadoraViewModel)(((ViewResult)respuesta).Model);
 
-            Assert.That(respuesta3.Resultado,Is.EqualTo(6));
+            Assert.That(respuesta3.Resultado, Is.EqualTo(6));
+        }
+
+        [Test]
+        public async Task Dividir_Diego()
+        {
+            CalculadoraController controlador = new CalculadoraController();
+            CalculadoraViewModel modelo = new CalculadoraViewModel();
+            modelo.Numero1 = 8;
+            modelo.Numero2 = 2;
+            modelo.Operacion = "/";
+            var respuesta = await controlador.Enter(modelo);
+            var resultado = (((ViewResult)respuesta).Model) as CalculadoraViewModel;
+            Assert.That(resultado?.Resultado, Is.EqualTo(4));
         }
     }
 }
